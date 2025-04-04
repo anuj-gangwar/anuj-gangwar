@@ -4,9 +4,7 @@
 <!-- PROFILE VIEWS & TROPHIES (SIDE BY SIDE) -->
 <p align="center">
   <!-- Profile Views -->
-    <a href="https://github.com/anuj-gangwar">
-    <img align="center" src="https://komarev.com/ghpvc/?username=anuj-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-gangwar" />
-  </a
+    
   <a href="https://github.com/anuj-gangwar">
     <img align="center" src="https://komarev.com/ghpvc/?username=anuj-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-gangwar" />
   </a>
@@ -27,12 +25,12 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/your_instagram_username/" target="blank">
+  <a href="https://www.instagram.com/anuj_gang_war?igsh=MXF2c2k2bHBkejU3Zg==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/your_whatsapp_number" target="blank">
+  <a href="https://wa.me/6395437604" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
