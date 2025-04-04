@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **https://www.linkedin.com/in/anuj-gangwar-61723a241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- 📫 How to reach me **(https://www.linkedin.com/in/anuj-kumar-gangwar-61723a241/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
