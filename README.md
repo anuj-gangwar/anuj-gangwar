@@ -19,18 +19,24 @@
 
 ---
 
-## 🚀 About Me  
-🔹 **Currently Learning:** Python  
-🔹 **📫 Connect with me:** [LinkedIn](https://www.linkedin.com/in/anuj-kumar-gangwar-61723a241/)  
-
----
-
 ## 📬 Connect With Me  
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/anuj-kumar-gangwar-61723a241/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/your_instagram_username/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/your_whatsapp_number" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
