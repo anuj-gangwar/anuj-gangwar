@@ -3,7 +3,6 @@
 
 <!-- PROFILE VIEWS & TROPHIES (SIDE BY SIDE) -->
 <p align="center">
-  <!-- Profile Views -->
     
   <a href="https://github.com/anuj-gangwar">
     <img align="center" src="https://komarev.com/ghpvc/?username=anuj-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-gangwar" />
