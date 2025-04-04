@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anuj Gangwar</h1>
 <h3 align="center">A Passionate Python Developer | ITIL Management Experience</h3>
 
-<img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
-
-<!-- PROFILE VIEWS -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anuj-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-gangwar" />
-</p>
-
-<!-- TROPHIES -->
-<p align="left">
+<!-- PROFILE VIEWS & TROPHIES (SIDE BY SIDE) -->
+<p align="center">
+  <!-- Profile Views -->
+  <a href="https://github.com/anuj-gangwar">
+    <img align="center" src="https://komarev.com/ghpvc/?username=anuj-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-gangwar" />
+  </a>
+  
+  <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anuj-gangwar&margin-w=10&margin-h=10&row=1&column=6&theme=algolia" alt="GitHub Trophies" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=anuj-gangwar&margin-w=10&margin-h=10&row=1&column=6&theme=algolia" alt="GitHub Trophies" />
   </a>
 </p>
 
