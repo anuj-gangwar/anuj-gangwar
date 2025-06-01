@@ -57,28 +57,13 @@ Welcome to my GitHub profile! I'm a passionate **Technical Writer** with a stron
 <p align="left">
 
   <!-- DITA XML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="DITA XML" width="50" height="50"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg](https://www.oxygenxml.com/dita/1.3/specs/index.html](https://www.oxygenxml.com/dita/1.3/specs/logo_DITA_white.png)" alt="DITA XML" width="50" height="50"/>
 
   <!-- Adobe FrameMaker -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Adobe_FrameMaker_icon_%282020%29.svg" alt="Adobe FrameMaker" width="50" height="50"/>
 
   <!-- Microsoft Word -->
   <img src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" alt="Microsoft Word" width="50" height="50"/>
-
-  <!-- Markdown -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
-
-  <!-- AsciiDoc -->
-  <img src="https://asciidoctor.org/images/octopus-64px.png" alt="AsciiDoc" width="50" height="50"/>
-
-  <!-- Sphinx -->
-  <img src="https://www.sphinx-doc.org/en/master/_static/sphinx-logo.png" alt="Sphinx" width="50" height="50"/>
-
-  <!-- MkDocs -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/MkDocs_Logo.svg" alt="MkDocs" width="50" height="50"/>
-
-  <!-- Docusaurus -->
-  <img src="https://docusaurus.io/img/docusaurus.png" alt="Docusaurus" width="50" height="50"/>
 
   <!-- Swagger / OpenAPI -->
   <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-dv2hkv9e.png" alt="Swagger" width="50" height="50"/>
