@@ -57,82 +57,52 @@ Welcome to my GitHub profile! I'm a passionate **Technical Writer** with a stron
 <p align="left">
 
   <!-- DITA XML -->
-  <a href="https://www.oasis-open.org/committees/dita/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/xml-1.svg" alt="DITA XML" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="DITA XML" width="50" height="50"/>
 
   <!-- Adobe FrameMaker -->
-  <a href="https://www.adobe.com/products/framemaker.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Adobe_FrameMaker_icon_%282020%29.svg" alt="Adobe FrameMaker" width="50" height="50"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Adobe_FrameMaker_icon_%282020%29.svg" alt="Adobe FrameMaker" width="50" height="50"/>
 
   <!-- Microsoft Word -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" alt="Microsoft Word" width="50" height="50"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" alt="Microsoft Word" width="50" height="50"/>
 
   <!-- Markdown -->
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
 
   <!-- AsciiDoc -->
-  <a href="https://asciidoctor.org/" target="_blank" rel="noreferrer">
-    <img src="https://asciidoctor.org/images/octopus-64px.png" alt="AsciiDoc" width="50" height="50"/>
-  </a>
+  <img src="https://asciidoctor.org/images/octopus-64px.png" alt="AsciiDoc" width="50" height="50"/>
 
   <!-- Sphinx -->
-  <a href="https://www.sphinx-doc.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.sphinx-doc.org/en/master/_static/sphinx-logo.png" alt="Sphinx" width="50" height="50"/>
-  </a>
+  <img src="https://www.sphinx-doc.org/en/master/_static/sphinx-logo.png" alt="Sphinx" width="50" height="50"/>
 
   <!-- MkDocs -->
-  <a href="https://www.mkdocs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/MkDocs_Logo.svg" alt="MkDocs" width="50" height="50"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/MkDocs_Logo.svg" alt="MkDocs" width="50" height="50"/>
 
   <!-- Docusaurus -->
-  <a href="https://docusaurus.io/" target="_blank" rel="noreferrer">
-    <img src="https://docusaurus.io/img/docusaurus.png" alt="Docusaurus" width="50" height="50"/>
-  </a>
+  <img src="https://docusaurus.io/img/docusaurus.png" alt="Docusaurus" width="50" height="50"/>
 
   <!-- Swagger / OpenAPI -->
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-dv2hkv9e.png" alt="Swagger" width="50" height="50"/>
-  </a>
+  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-dv2hkv9e.png" alt="Swagger" width="50" height="50"/>
 
   <!-- SolidWorks -->
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/solidworks-logo-9E9EB5E12C-seeklogo.com.png" alt="SolidWorks" width="50" height="50"/>
-  </a>
+  <img src="https://seeklogo.com/images/S/solidworks-logo-9E9EB5E12C-seeklogo.com.png" alt="SolidWorks" width="50" height="50"/>
 
-  <!-- PLM (Windchill as example) -->
-  <a href="https://www.ptc.com/en/products/plm" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PTC_Logo.svg/512px-PTC_Logo.svg.png" alt="PLM - PTC Windchill" width="50" height="50"/>
-  </a>
+  <!-- PLM - PTC Windchill -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PTC_Logo.svg/512px-PTC_Logo.svg.png" alt="PLM - PTC Windchill" width="50" height="50"/>
 
-  <!-- PDM (as used in CAD workflows) -->
-  <a href="https://www.solidworks.com/product/data-management" target="_blank" rel="noreferrer">
-    <img src="https://www.solidworks.com/sites/default/files/styles/media_crop/public/2021-05/2021-data-management-icon.png" alt="PDM - SolidWorks PDM" width="50" height="50"/>
-  </a>
+  <!-- PDM - SolidWorks -->
+  <img src="https://www.solidworks.com/sites/default/files/2021-05/2021-data-management-icon.png" alt="PDM - SolidWorks" width="50" height="50"/>
 
-  <!-- Git & GitHub -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="50" height="50"/>
-  </a>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 
-  <!-- Confluence -->
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/confluence-logo.svg" alt="Confluence" width="50" height="50"/>
-  </a>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 
   <!-- Jira -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50" height="50"/>
+
+  <!-- Confluence -->
+  <img src="https://cdn.worldvectorlogo.com/logos/confluence-logo.svg" alt="Confluence" width="50" height="50"/>
 
 </p>
 
