@@ -1,20 +1,51 @@
-<h1 align="center">Hi 👋, I'm Anuj Gangwar</h1>
-<h3 align="center">A Passionate Python Developer | ITIL Management Experience</h3>
+# 👩‍💻 Hi, I'm Anuj Kumar Gangwar – Technical Writer | Documentation Specialist | Developer Advocate
 
-<!-- PROFILE VIEWS & TROPHIES (SIDE BY SIDE) -->
-<p align="center">
-    
-  <a href="https://github.com/anuj-gangwar">
-    <img align="center" src="https://komarev.com/ghpvc/?username=anuj-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-gangwar" />
-  </a>
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=anuj-gangwar&margin-w=10&margin-h=10&row=1&column=6&theme=algolia" alt="GitHub Trophies" />
-  </a>
-</p>
+Welcome to my GitHub profile! I'm a passionate **Technical Writer** with a strong background in transforming complex technical information into clear, concise, and user-friendly content. I bridge the gap between developers, end-users, and businesses by creating impactful documentation that drives understanding, adoption, and success.
 
 ---
+
+## 📌 About Me
+
+- 📝 Over 2 Years of experience in **Technical Writer**,**technical documentation**, **API writing**, and **developer-focused content**
+- 🛠️ Skilled in tools like **DITA XML**, **HTML**, **PLM**, **PDM**, **Swagger/OpenAPI**, **SDLC**, and **Git**
+- 🧠 Strong understanding of **software development**, **DevOps workflows**, and **cloud platforms** like **AWS**, **Azure**, or **GCP**
+- 🤝 Collaborate closely with engineers, PMs, and designers in **Agile/Scrum** teams
+- 💡 Advocate for **clear UX writing**, **accessibility**, and **continuous documentation improvement**
+
+---
+
+## ✍️ What I Do
+
+- 📚 Write end-user and developer documentation (user guides, API docs, tutorials, FAQs, release notes)
+- ⚙️ Document software architectures, system flows, CLI tools, SDKs, and RESTful APIs
+- 🔍 Review code and product designs to produce accurate technical content
+- 📊 Build and maintain documentation websites using tools like **Docusaurus**, **MkDocs**, and **Sphinx**
+- 🌐 Write blog posts and articles that help users onboard and succeed with technical tools
+
+---
+
+## 🧰 Tools & Technologies
+
+| Writing & Docs | Development | Collaboration | CMS & Hosting |
+|----------------|-------------|----------------|----------------|
+| Markdown, reStructuredText, AsciiDoc | Python, HTML, CSS, JavaScript basics | Git, GitHub, Jira, Confluence | GitHub Pages, Netlify |
+| Sphinx, MkDocs, Docusaurus, Swagger | JSON, YAML, OpenAPI | Notion, Trello, Slack | WordPress, Read the Docs |
+
+---
+
+## 📌 Featured Projects
+
+- 🧾 **API Docs for [Project Name]** – End-to-end REST API documentation with OpenAPI + Swagger UI  
+- 📘 **Docusaurus-based Developer Portal** – Designed and deployed a full-featured documentation site for devs  
+- 🔄 **Internal Wiki Migration** – Migrated 300+ legacy Confluence pages to GitHub Pages using Docs-as-Code approach  
+- ✍️ **Tech Blog Posts** – Published technical articles on CI/CD, CLI tools, and documentation best practices
+
+> 🛠️ You can find samples of my documentation and writing in the [Repositories](#) section below or on [My Website](#) / [Portfolio](#).
+
+_“Good documentation is just as important as good code.”_ ✨  
+Thanks for stopping by! Feel free to explore my work, connect, or reach out for collaboration.
+
+
 
 ## 📬 Connect With Me  
 <p align="left">
